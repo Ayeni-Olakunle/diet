@@ -1,0 +1,72 @@
+﻿.holdAll{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.holdS {
+    width: 70%;
+    height: auto;
+    border: 2px solid #cecece;
+    margin-top: 2em;
+    border-radius: 5px;
+}
+
+.holdSwitch {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #c7c7c7;
+    padding-bottom: 10px;
+    padding: 10px;
+}
+
+.active {
+    background-color: green;
+    color: white;
+    padding: 7px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.notActive {
+    color: black;
+    padding: 7px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    border: 2px solid gray;
+}
+
+.holdBottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #c7c7c7;
+    padding-bottom: 10px;
+    padding: 10px;
+}
+
+.next {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 7px 20px;
+    border-radius: 3px;
+}
+
+.prev {
+    background-color: tomato;
+    color: white;
+    border: none;
+    padding: 7px 20px;
+    border-radius: 3px;
+}
+
+.holdContent{
+    padding: 10px;
+}
+
+.morning {
+    text-align: center;
+    font-size: 30px;
+}
