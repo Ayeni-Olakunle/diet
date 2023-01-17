@@ -1,0 +1,38 @@
+﻿[
+  {
+    "userId": "1",
+    "day": "morning",
+    "food": "Garri and Yam"
+  },
+  {
+    "userId": "2",
+    "day": "morning",
+    "food": "Platain and Yam"
+  },
+  {
+    "userId": "3",
+    "day": "morning",
+    "food": "Garri and Beans"
+  },
+  {
+    "userId": "4",
+    "day": "after noon",
+    "food": "Garri and Yam"
+  },
+  {
+    "userId": "Dodo and Corn",
+    "day": "after noon",
+    "food": "Garri and Yam"
+  },
+  {
+    "userId": "1",
+    "day": "morning",
+    "food": "Garri and Yam"
+  },
+  {
+    "userId": "1",
+    "day": "morning",
+    "food": "Garri and Yam"
+  }
+]
+

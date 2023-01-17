@@ -62,11 +62,22 @@
     border-radius: 3px;
 }
 
-.holdContent{
+.holdContent {
     padding: 10px;
+    text-align: center;
 }
-
+.morning{
+    text-align: center;
+}
 .morning {
     text-align: center;
     font-size: 30px;
+}
+
+.show{
+    display: block;
+}
+
+.noShow{
+    display: none;
 }
